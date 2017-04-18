@@ -5,7 +5,7 @@ title: Unity Animator as a combat state machine
 
 During the last year and a half I've been developing a game with a combat style that relies on combos, my main character contains a state machine, every Update cycle I feed the state machine with some input information and it's processed in one of the configured states.
 
-For some time I always had a problem where from time to time the character got stuck in its attack locking every player action, this is definitely unnaceptable, the flow here was something along the lines:
+Now and then I had a problem where the character got stuck in its attack, locking every player action, this is definitely unnaceptable, the flow here was something along the lines:
 
 - Player presses attack button.
 - Attack button triggers state machine to go to attack state.
