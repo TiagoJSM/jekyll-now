@@ -9,6 +9,6 @@ In March I put together a C++ project using SDL2 and OpenGL to create a pong clo
 
 I finished it earlier than I expected and even though it was a simple start I enjoyed the process.
 
-Here is the tag for the project [Tag](https://gitlab.com/TiagoJSM/SimpleEngine/tags/Pong-March%2F2017-project)
+Here is the link for the project [Link](https://gitlab.com/TiagoJSM/SimpleEngine), unfortunatelly I can't show it through a tag.
 
 This month I expect to work on something a bit more challenging and start to use more complex shaders and textures.
