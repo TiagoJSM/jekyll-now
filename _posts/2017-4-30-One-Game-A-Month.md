@@ -13,4 +13,4 @@ To aid my previous solution I created a generic ManagedResource class that works
 
 I also improved the rendering layer and added new utilitary functions for math and camera.
 
-Here is the tag for the project [Tag](https://gitlab.com/TiagoJSM/SimpleEngine/tags/Tank-Shooter-April%2F2017)
+Here is the link for the project [Link](https://gitlab.com/TiagoJSM/SimpleEngine)
